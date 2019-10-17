@@ -7,19 +7,19 @@ Java Swing UI based desktop application using MS Access as database.
 
 ### Installation
 
-Requirements: You can have any Windows(xp,vista or windows 7). This software runs on any amount of RAM and Hard Disk and on every processor.
-Only requirement is MS-Access which comes with MS-Office and Java Runtime Enviroment(JRE) which is installed mostly by default.
-If it's not intalled then download it from https://cds.sun.com/is-bin/INTERSHOP.enfinity/WFS/CDS-CDS_Developer-Site/en_US/-/USD/ViewProductDetail-Start?ProductRef=jre-6u23-oth-JPR@CDS-CDS_Developer OR search google for JRE. JRE is legally free and only of 15 Mbs.
+- Requirements: You can have any Windows(xp,vista or windows 7). This software runs on any amount of RAM and Hard Disk and on every processor.
+- Only requirement is MS-Access which comes with MS-Office and Java Runtime Enviroment(JRE) which is installed mostly by default. If it's not intalled then download it from https://cds.sun.com/is-bin/INTERSHOP.enfinity/WFS/CDS-CDS_Developer-Site/en_US/-/USD/ViewProductDetail-Start?ProductRef=jre-6u23-oth-JPR@CDS-CDS_Developer OR search google for JRE. JRE is legally free and only of 15 Mbs.
 
 ### Database setup
-Keep 'ChequePrintStartdatabase.mdb' file in any folder where the path or location of this file will not be changed.
-->Go to control panel of you computer
-->click on administrative tools
-->click on DataSources(ODBC)
-->click on Add->choose Microsoft Access Driver (*.mdb) and click Finish
-->Now a new window will open Type cheque in Data Source Name field.
-->click on select->Now browse to the 'ChequePrintStartdatabase.mdb' file. While choosing the databse as you will click on folder containing 'ChequePrintStartdatabase.mdb' file, 'ChequePrintStartdatabase.mdb' will appear written on left side of window. Select it and click on Ok
-->Now click on 'cheque' under name field and click on advanced->enter the password you received from LoJis System Solutions. Click on ok without filling any other field. Now you are ready to use the software.
+1) Keep 'ChequePrintStartdatabase.mdb' file in any folder where the path or location of this file will not be changed.
+2) Go to control panel of you computer
+3) click on administrative tools
+4) click on DataSources(ODBC)
+5) click on Add->choose Microsoft Access Driver (*.mdb) and click Finish
+6) Now a new window will open Type cheque in Data Source Name field.
+7) click on select->Now browse to the 'ChequePrintStartdatabase.mdb' file. While choosing the databse as you will click on folder containing 'ChequePrintStartdatabase.mdb' file, 'ChequePrintStartdatabase.mdb' will appear written on left side of window. Select it and click on Ok
+8) Now click on 'cheque' under name field and click on advanced
+9) enter the password. Click on ok without filling any other field. Now you are ready to use the software.
 
 ### How to use the application
 1) Run the software by double clicking on ChequePrintStart.jar file.
@@ -31,7 +31,7 @@ Then in next field type new username (or type the current username again if you 
 Then enter the current password and in next 2 fields type the new password and click on submit button.
 A message will appear telling you that new username and password has been saved.
 5) Now when you login into the software a new window will open.
-6) Type the customer's name or choose the customer's name from drop=down menu.
+6) Type the customer's name or choose the customer's name from dropdown menu.
 Type the amount in numbers in next field and amount in owrds in next field followed by date in next field.
 If you want crossed cheque then click on Crossed checkbox. Now choose the bank from the drop-down menu.
 7) Now you can click on 'save & create image' button to save the details in database alongwith creating an image of the cheque which can be printed in future OR you can click on 'save & print' button to save the details in database and print the cheque OR click on 'save only' button to only save the details in database.
