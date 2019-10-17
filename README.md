@@ -1,13 +1,13 @@
 # cheque-handler
 Desktop application to print cheques and store the cheque details.
 
-## Following text is as it is copied form README file from 2010 when this application was developed
+## Following text is as it is copied from README file from 2010 when this application was developed
 
 Java Swing UI based desktop application using MS Access as database.
 
 ### Installation
 
-- Requirements: You can have any Windows(xp,vista or windows 7). This software runs on any amount of RAM and Hard Disk and on every processor.
+- Requirements: You can have any OS. This software runs on any amount of RAM and Hard Disk and on every processor.
 - Only requirement is MS-Access which comes with MS-Office and Java Runtime Enviroment(JRE) which is installed mostly by default. If it's not intalled then download it from https://cds.sun.com/is-bin/INTERSHOP.enfinity/WFS/CDS-CDS_Developer-Site/en_US/-/USD/ViewProductDetail-Start?ProductRef=jre-6u23-oth-JPR@CDS-CDS_Developer OR search google for JRE. JRE is legally free and only of 15 Mbs.
 
 ### Database setup
@@ -19,7 +19,7 @@ Java Swing UI based desktop application using MS Access as database.
 6) Now a new window will open Type cheque in Data Source Name field.
 7) click on select->Now browse to the 'ChequePrintStartdatabase.mdb' file. While choosing the databse as you will click on folder containing 'ChequePrintStartdatabase.mdb' file, 'ChequePrintStartdatabase.mdb' will appear written on left side of window. Select it and click on Ok
 8) Now click on 'cheque' under name field and click on advanced
-9) enter the password. Click on ok without filling any other field. Now you are ready to use the software.
+9) enter the password provided to you. Click on ok without filling any other field. Now you are ready to use the software.
 
 ### How to use the application
 1) Run the software by double clicking on ChequePrintStart.jar file.
@@ -41,3 +41,5 @@ If you want crossed cheque then click on Crossed checkbox. Now choose the bank f
 Also enter a name for the cheque(for eg. enter bank's name) and click on 'save'.
 You have to close the software and again open it to see the name of newly created cheque name in Bank drop down list.
 11) WARNING: Don't move the database 'ChequePrintStartdatabase.mdb' file after database has been installed.
+
+Developed with ❤ (and lot of frustration) by LoJiS System Solutions
