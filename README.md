@@ -42,4 +42,4 @@ Also enter a name for the cheque(for eg. enter bank's name) and click on 'save'.
 You have to close the software and again open it to see the name of newly created cheque name in Bank drop down list.
 11) WARNING: Don't move the database 'ChequePrintStartdatabase.mdb' file after database has been installed.
 
-Developed with ❤ (and lot of frustration) by LoJiS System Solutions
+Developed with ❤ (and lot of frustration) by LoJiS System Solutions in 2010
