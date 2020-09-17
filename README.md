@@ -1,6 +1,8 @@
 # cheque-handler
 Desktop application to print cheques and store the cheque details.
 
+![Image](https://smilep.github.io/assets/project-images/cheque-handler.png)
+
 ## Following text is as it is copied from README file from 2010 when this application was developed
 
 Java Swing UI based desktop application using MS Access as database.
@@ -8,7 +10,7 @@ Java Swing UI based desktop application using MS Access as database.
 ### Installation
 
 - Requirements: You can have any OS. This software runs on any amount of RAM and Hard Disk and on every processor.
-- Only requirement is MS-Access which comes with MS-Office and Java Runtime Enviroment(JRE) which is installed mostly by default. If it's not intalled then download it from https://cds.sun.com/is-bin/INTERSHOP.enfinity/WFS/CDS-CDS_Developer-Site/en_US/-/USD/ViewProductDetail-Start?ProductRef=jre-6u23-oth-JPR@CDS-CDS_Developer OR search google for JRE. JRE is legally free and only of 15 Mbs.
+- Only requirement is MS-Access which comes with MS-Office and Java Runtime Enviroment(JRE) which is installed mostly by default. If it's not intalled then search on google and install it. JRE is legally free and only of 15 Mbs.
 
 ### Database setup
 1) Keep 'ChequePrintStartdatabase.mdb' file in any folder where the path or location of this file will not be changed.
